@@ -1,8 +1,12 @@
+body{
+    font-family: 'Roboto', sans-serif;;
+}
+
 .card_hieght{
     height: 300rem;
 }
 .img_height{
-    height: 50px;
-    width: 20px ;
+    height: 10rem;
+    width: 20rem ;
 
 }
